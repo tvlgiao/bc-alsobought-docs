@@ -81,8 +81,9 @@ Add the code below to **Storefront** > **Script Manager**, **Location** = `Foote
 Edit your product, add some custom field with name `__alsobought` and value is the frequently product ID. You can add many custom field `__alsobought` as you want.
 
 Example:
-- `__alsobought` : `389`
-- `__alsobought` : `388`
-- `__alsobought` : `390`
+
+* `__alsobought` : `389`
+* `__alsobought` : `388`
+* `__alsobought` : `390`
 
 
